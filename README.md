@@ -6,7 +6,19 @@
 
 ###
 
-<h2 align="left"></h2>
+<h2 align="left">Projetos🚀</h2>
+
+* **Projeto final da certificação Google Cloud Data Analytics**☁️\
+  Realizando uma análise de dados e criação de dashboard totalmente no ambiente em nuvem da Google.
+
+* **STARFLAKE-schema para Otimização de Banco de Dados**🗄️\
+  Combinação entre os modelos STAR-schema e SNOWFLAKE-schema para otimizar desempenho em consultas para otimizar Análises de Dados.
+
+* **Cafeteria Brew & Bloom**☕\
+  Análise do 1° Semestre de 2023 da cafeteria para identificar oportunidades de crescimento. Desenvolvido principalmente com Python e o Looker Studio, o projeto conta com uma visualização de dados e um resumo executivo.
+
+* **Varejo Tech-Solutions**🛒\
+  Realizando uma Análise Exploratória nos dados para descobrir insights acionáveis à equipe de marketing e vendas. O projeto conta com uma análise de RFM, Geográfica e de Vendas, totalmente desenvolvida em Python.
 
 ###
 
@@ -14,7 +26,7 @@
 
 ###
 
-<h2 align="left">Ferramentas</h2>
+<h2 align="left">Ferramentas🛠️</h2>
 
 ###
 
