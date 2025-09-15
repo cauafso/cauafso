@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Pós-Graduação em ciência de dados na Unicesumar.</p>
+<p align="left">Estudante de Pós-Graduação em Ciência de Dados na Unicesumar.</p>
 
 ###
 
